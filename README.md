@@ -1,2 +1,3 @@
 # EasyTest
-My first
+My first Github project.
+Thanks all!
